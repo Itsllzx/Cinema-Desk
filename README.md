@@ -3,10 +3,7 @@
 # 🎬 Cinema Notebook – Offline Movie Journal
 
 > **A minimalist, personal, offline movie diary**  
-> No server, no internet – just a single HTML file running on your phone or laptop.
-
-![Screenshot Preview](https://via.placeholder.com/800x400?text=Screenshot+Preview)
-*(Replace with actual screenshot later)*
+> No server, no internet – just a single HTML file running on your phone or 
 
 ---
 
